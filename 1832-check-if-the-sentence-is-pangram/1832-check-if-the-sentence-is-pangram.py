@@ -4,7 +4,6 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        a = set(sentence)
-        return (len(a) == 26)
+        return (len(set(sentence)) == 26)
                 
         
