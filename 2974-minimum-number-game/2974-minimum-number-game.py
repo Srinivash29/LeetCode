@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        nums.sort()
-        for i in range(0,len(nums)-1,2):
-            nums[i],nums[i+1] = nums[i+1],nums[i]
-        return nums    
+        arr = sorted(nums)
+        for i in range(0,len(arr)-1,2):
+            arr[i],arr[i+1] = arr[i+1],arr[i]
+        return arr    
 
             
