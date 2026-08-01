@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Srinivash29/LeetCode/tree/master/0258-add-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Srinivash29/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Srinivash29/LeetCode/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
