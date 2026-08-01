@@ -7,11 +7,10 @@ class Solution(object):
         """
         nums1.extend(nums2)
         nums1.sort()
-        l = len(nums1)
-        m = l/2
-        if(l%2!=0):
-            return nums1[m]
+        median = len(nums1)/2
+        if(len(nums1)%2 != 0):
+            return nums1[median]
         else:
-            return (nums1[m-1] + nums1[m])/2.0  
+            return (nums1[median-1] + nums1[median])/2.0  
         
 
