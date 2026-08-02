@@ -6,7 +6,7 @@ class Solution(object):
         """
         s = ""
         for i in words:
-            if (i[::1] == i[::-1]):
+            if (i == i[::-1]):
                 s = i
                 break
             else:
