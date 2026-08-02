@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Srinivash29/LeetCode/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Srinivash29/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srinivash29/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Srinivash29/LeetCode/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinivash29/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Srinivash29/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Srinivash29/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srinivash29/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Srinivash29/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
 ## Hash Table
