@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Srinivash29/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Srinivash29/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Srinivash29/LeetCode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srinivash29/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinivash29/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0682-baseball-game](https://github.com/Srinivash29/LeetCode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Srinivash29/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Srinivash29/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Srinivash29/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
