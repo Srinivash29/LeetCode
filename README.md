@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srinivash29/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Srinivash29/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Srinivash29/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Srinivash29/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Srinivash29/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Srinivash29/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Srinivash29/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Srinivash29/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
