@@ -11,7 +11,8 @@ class Solution(object):
             a.append(i)
         for i in range(len(indices)):
             b[indices[i]] = a[i]
-        return ''.join(b)    
+        c = ''.join(b)    
+        return c    
 
         
             
