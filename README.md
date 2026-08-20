@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Srinivash29/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinivash29/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Srinivash29/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/Srinivash29/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Srinivash29/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Srinivash29/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
