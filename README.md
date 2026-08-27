@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Srinivash29/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Srinivash29/LeetCode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/Srinivash29/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Srinivash29/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Srinivash29/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3701-compute-alternating-sum](https://github.com/Srinivash29/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Srinivash29/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
