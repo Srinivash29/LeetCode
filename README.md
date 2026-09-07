@@ -131,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Srinivash29/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Srinivash29/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Srinivash29/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
