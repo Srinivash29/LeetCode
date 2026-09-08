@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Srinivash29/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Srinivash29/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Srinivash29/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srinivash29/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Srinivash29/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Srinivash29/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Srinivash29/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
