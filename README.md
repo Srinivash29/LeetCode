@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Srinivash29/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Srinivash29/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Srinivash29/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3701-compute-alternating-sum](https://github.com/Srinivash29/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Srinivash29/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
