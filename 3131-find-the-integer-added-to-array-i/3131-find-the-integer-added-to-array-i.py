@@ -7,7 +7,4 @@ class Solution(object):
         """
         nums1.sort()
         nums2.sort()
-        nums3 = []
-        for i in range(len(nums1)):
-            nums3.append(nums2[i] - nums1[i])
-        return nums3[0]
+        return nums2[0] - nums1[0]
