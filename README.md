@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinivash29/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srinivash29/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Srinivash29/LeetCode/tree/master/0682-baseball-game) |
+| [0905-sort-array-by-parity](https://github.com/Srinivash29/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Srinivash29/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Srinivash29/LeetCode/tree/master/1528-shuffle-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srinivash29/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Srinivash29/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Srinivash29/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Srinivash29/LeetCode/tree/master/3024-type-of-triangle) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srinivash29/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinivash29/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Srinivash29/LeetCode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/Srinivash29/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Srinivash29/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
