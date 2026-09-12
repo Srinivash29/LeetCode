@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        a=set(nums)
-        for i in a:
-            if(nums.count(i) == 1):
-                return i
+        result = 0
+        for num in nums:
+            result = result ^ num
+        return result
                 
                                  
