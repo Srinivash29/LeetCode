@@ -4,7 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        for i in nums:
+        a=set(nums)
+        for i in a:
             if(nums.count(i) == 1):
                 return i
                 
