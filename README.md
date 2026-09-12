@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Srinivash29/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srinivash29/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Srinivash29/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Srinivash29/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Srinivash29/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srinivash29/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Srinivash29/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srinivash29/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Srinivash29/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
