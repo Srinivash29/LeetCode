@@ -194,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Srinivash29/LeetCode/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Srinivash29/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
