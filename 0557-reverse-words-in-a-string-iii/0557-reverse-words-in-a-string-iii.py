@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        a = []
-        s = s.split()
-        for i in s:
-            a.append("".join(reversed(i)))
-        return " ".join(a)
+        words = s.split()
+        for i in range(len(words)):
+            words[i] = words[i][::-1]
+        result = " ".join(words)
+        return result
             
         
         
